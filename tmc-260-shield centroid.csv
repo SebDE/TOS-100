@@ -1,0 +1,46 @@
+Screaming Circuits SMD component position file.
+
+Centroid Data for pc board: "tmc-260-shield.brd" as of: 13.05.12 12:18
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+C1,Top,0.548,0.747,90
+C2,Top,0.983,0.747,90
+C3,Top,1.937,1.377,180
+C4,Top,2.047,0.955,180
+C5,Top,2.087,1.063,90
+C6,Top,2.004,0.862,180
+C7,Top,2.017,1.063,90
+C8,Top,0.260,0.884,180
+C9,Top,2.086,1.198,90
+C10,Top,1.327,1.314,270
+DIR,Top,0.157,1.693,180
+EN,Top,0.159,1.222,180
+IC1,Top,1.675,1.150,270
+PWR,Top,0.159,0.985,180
+Q1,Top,0.236,1.260,0
+R1,Top,1.417,1.403,0
+R2,Top,1.438,0.906,0
+R3,Top,1.418,1.615,270
+R4,Top,1.417,0.669,90
+R6,Top,0.433,1.181,270
+R7,Top,0.315,1.043,270
+R8,Top,0.315,1.181,270
+R9,Top,0.315,1.319,270
+R10,Top,0.315,1.457,270
+R11,Top,0.315,1.594,270
+R12,Top,0.315,1.732,270
+R13,Top,0.315,1.870,270
+R14,Top,0.315,2.008,270
+R15,Top,0.433,1.319,270
+R16,Top,0.433,1.457,270
+R17,Top,0.433,1.732,270
+R18,Top,0.433,1.594,270
+RESET,Top,0.865,0.141,0
+SG,Top,0.157,1.929,180
+SJ1,Top,1.902,0.059,0
+STEP,Top,0.157,1.457,180
+T2,Top,0.236,1.496,0
+T3,Top,0.236,1.732,0
+T4,Top,0.236,1.969,0
